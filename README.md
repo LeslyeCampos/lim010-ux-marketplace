@@ -1,6 +1,6 @@
 # CATALOVE - MARKETPLACE
 
-![Image](https://i.imgur.com/vVAsNkJ.png)
+![Image](https://i.imgur.com/GtLTbzx.jpg)
 
 ## Preámbulo del proyecto
 
